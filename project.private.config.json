@@ -1,0 +1,66 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/monitoringCenter/index",
+          "pathName": "pages/monitoringCenter/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/monitoringDetail/index",
+          "pathName": "pages/monitoringDetail/index",
+          "query": "id=1&name=uniapp",
+          "scene": null
+        },
+        {
+          "name": "pages/historyTrack/index",
+          "pathName": "pages/historyTrack/index",
+          "query": "id=1&name=uniapp",
+          "scene": null
+        },
+        {
+          "name": "pages/historyTrackDetailXZ/index",
+          "pathName": "pages/historyTrackDetailXZ/index",
+          "query": "id=%E9%B2%81Brcccc",
+          "scene": null
+        },
+        {
+          "name": "监控详情",
+          "pathName": "pages/siteMonitoringDetail/index",
+          "query": "id=1&name=uniapp",
+          "scene": null
+        },
+        {
+          "name": "车辆轨迹",
+          "pathName": "pages/carTrail/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "首页",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "制氢装置",
+          "pathName": "pages/monitoringCenter/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
